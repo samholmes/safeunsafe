@@ -1,0 +1,8 @@
+{
+	"name": "safeunsafe",
+	"version": "1.0.0",
+	"description": "Tiny lib for safely optional chaining on variables.",
+	"main": "index.js",
+	"author": "Samuel Holmes",
+	"license": "MIT"
+}
